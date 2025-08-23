@@ -2,8 +2,8 @@
 
 
 fx_version 'cerulean'
-description 'PL HUD'
-author 'by PL Dev Team V7-Ahmad'
+description 'yamn'
+author 'by yamn Dev '
 
 game 'gta5'
 shared_scripts {'@ox_lib/init.lua', 'shared/shared.lua'}
@@ -30,3 +30,4 @@ lua54 'yes'
 escrow_ignore {
     'shared/shared.lua',
 }
+
